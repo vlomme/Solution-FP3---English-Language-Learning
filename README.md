@@ -1,6 +1,9 @@
 # Solution-FP3-English-Language-Learning
-I trained a family of deberta models, after which I predicted labels for Feedback Prize 2 data and re-labeled Feedback Prize 3 data. Then I trained 1 fold deberta v3 xsmall first on fp2 data, then on fp3. I used kaggle resources and my 1060 for training. The full training cycle was about 1 hour. Text prediction took about 15 minutes on CPU
+I trained a family of deberta models, after which I predicted labels for Feedback Prize 2 data and re-labeled Feedback Prize 3 data. Then I trained 1 fold deberta v3 xsmall first on fp2 data, then on fp3. I used kaggle resources for training. The full training cycle was about 1 hour. Text prediction took about 15 minutes on CPU
 
+Kaggle train https://www.kaggle.com/code/vlomme/fp3-train
+
+Kaggle test https://www.kaggle.com/code/vlomme/fork-of-fb3-fast-cpu 
 
 0. Edit Settings
 1. Label the dataset with a large ensemble or downloads https://drive.google.com/file/d/1rfBRN6m7lS4LjlWzmqe2U0WXzPWgjgyH/view?usp=sharing
