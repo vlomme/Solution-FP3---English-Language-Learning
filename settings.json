@@ -1,0 +1,1 @@
+{"TRAIN_DATA_CLEAN_PATH": "./data/train_folds.csv", "TRAIN_DATA_CLEAN_PATH_NEW": "./data/psevdo_new.csv", "TRAIN_DATA_CLEAN_PATH_OLD": "./data/psevdo_old.csv", "TEST_DATA_CLEAN_PATH": "./data/test.csv", "MODEL_CHECKPOINT_DIR": "./42_512_all_microsoft-deberta-v3-xsmall/microsoft-deberta-v3-xsmall_fold5_best.pth", "LOGS_DIR": "./", "SUBMISSION_DIR": "./submissions/"}
